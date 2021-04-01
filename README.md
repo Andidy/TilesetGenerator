@@ -6,3 +6,6 @@ Here is an example of an input image. (It has been magnified to see the image cl
 
 And the program will produce an output image like the following.
 ![Example Output](./example_output.png)
+
+And here is an example of the output being used in my Tilemap Rendering Project.
+![Example Usage](./example_usage.PNG)
